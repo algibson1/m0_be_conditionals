@@ -12,3 +12,5 @@ When doing the mild challenge, I first thought "Well, to check if something is e
 After that ended up confusing and complicated, I realized there was probably a simpler way, so instead I googled how to write a program to check if an integer is even or odd. And I got a much simpler result.
 
 What I learned from that is I need to research the exact solution I need, not the solution I THINK I need.
+
+That makes me feel satisfied that I am learning better how to find simple solutions and not make them too complicated.
